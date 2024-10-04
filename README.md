@@ -1,6 +1,6 @@
 # Pizza Order Application
 
-This Desktop program provides an intuitive and user-friendly interface for customizing pizza orders. Users can select their preferred pizza size, crust type, and toppings, making it easy to create the perfect pizza. 
+This desktop program provides an intuitive and user-friendly interface for customizing pizza orders. Users can select their preferred pizza size, crust type, and toppings, making it easy to create the perfect pizza. 
 
 ## Features
 
