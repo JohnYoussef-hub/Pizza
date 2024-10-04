@@ -486,7 +486,9 @@
             this.Controls.Add(this.gbCrustType);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.gbSize);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
             this.Name = "Form2";
             this.Text = "Order Now!";
             this.Load += new System.EventHandler(this.Form2_Load);
